@@ -1,0 +1,18 @@
+[
+   {
+      "id": 1525349917387,
+      "string": "asdfa",
+      "integer": 321,
+      "float": 321,
+      "date": "1111-11-11",
+      "bool": true
+   },
+   {
+      "id": 1525349939607,
+      "string": "asdfa",
+      "integer": 321,
+      "float": 3211,
+      "date": "1111-11-11",
+      "bool": true
+   }
+]
